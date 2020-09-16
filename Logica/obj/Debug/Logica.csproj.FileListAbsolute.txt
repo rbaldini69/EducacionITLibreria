@@ -1,0 +1,22 @@
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Logica\bin\Debug\Logica.dll
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Logica\bin\Debug\Logica.pdb
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Logica\bin\Debug\Datos.dll
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Logica\bin\Debug\Entidades.dll
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Logica\bin\Debug\Datos.pdb
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Logica\bin\Debug\Entidades.pdb
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Logica\obj\Debug\Logica.csproj.CopyComplete
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Logica\obj\Debug\Logica.dll
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Logica\obj\Debug\Logica.pdb
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Logica\bin\Debug\Logica.dll
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Logica\bin\Debug\Logica.pdb
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Logica\bin\Debug\Datos.dll
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Logica\bin\Debug\Entidades.dll
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Logica\bin\Debug\Datos.pdb
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Logica\bin\Debug\Entidades.pdb
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Logica\obj\Debug\Logica.dll
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Logica\obj\Debug\Logica.pdb

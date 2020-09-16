@@ -1,0 +1,34 @@
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\bin\Debug\WinBiblioteca.exe.config
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\bin\Debug\WinBiblioteca.exe
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\bin\Debug\WinBiblioteca.pdb
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\bin\Debug\Entidades.dll
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\bin\Debug\Logica.dll
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\bin\Debug\Entidades.pdb
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\bin\Debug\Logica.pdb
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.csprojAssemblyReference.cache
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.Form1.resources
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.Properties.Resources.resources
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.csproj.GenerateResource.cache
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.csproj.CoreCompileInputs.cache
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.csproj.CopyComplete
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.exe
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.pdb
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.MenuPrincipal.resources
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.FrmConsultaAutores.resources
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\bin\Debug\WinBiblioteca.exe.config
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\bin\Debug\WinBiblioteca.exe
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\bin\Debug\WinBiblioteca.pdb
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\bin\Debug\Entidades.dll
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\bin\Debug\Logica.dll
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\bin\Debug\Entidades.pdb
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\bin\Debug\Logica.pdb
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.csprojAssemblyReference.cache
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.Form1.resources
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.FrmConsultaAutores.resources
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.MenuPrincipal.resources
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.Properties.Resources.resources
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.csproj.GenerateResource.cache
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.csproj.CopyComplete
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.exe
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\WinBiblioteca\obj\Debug\WinBiblioteca.pdb

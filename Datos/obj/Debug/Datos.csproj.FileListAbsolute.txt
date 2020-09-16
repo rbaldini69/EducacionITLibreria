@@ -1,0 +1,18 @@
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Datos\bin\Debug\Datos.dll
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Datos\bin\Debug\Datos.pdb
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Datos\bin\Debug\Entidades.dll
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Datos\bin\Debug\Entidades.pdb
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Datos\obj\Debug\Datos.csproj.CopyComplete
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Datos\obj\Debug\Datos.dll
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Datos\obj\Debug\Datos.pdb
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Datos\bin\Debug\Datos.dll
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Datos\bin\Debug\Datos.pdb
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Datos\bin\Debug\Entidades.dll
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Datos\bin\Debug\Entidades.pdb
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Datos\obj\Debug\Datos.dll
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Datos\obj\Debug\Datos.pdb

@@ -1,0 +1,12 @@
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Entidades\bin\Debug\Entidades.dll
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Entidades\bin\Debug\Entidades.pdb
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Entidades\obj\Debug\Entidades.dll
+F:\_2020\#SETIEMBRE\PROG_NET\Clase3\SolucionBiblioteca\Entidades\obj\Debug\Entidades.pdb
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Entidades\bin\Debug\Entidades.dll
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Entidades\bin\Debug\Entidades.pdb
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Entidades\obj\Debug\Entidades.dll
+C:\Users\rbald\OneDrive\Curso Educacion IT\clases\Clase3\SolucionBiblioteca\Entidades\obj\Debug\Entidades.pdb
