@@ -40,7 +40,11 @@ namespace WinBiblioteca
                     objEntidad.Nacionalidad = cboPaises.SelectedItem.ToString();
                     objLogica.Agregar(Program.ListaAutores, objEntidad);
                     MessageBox.Show("Autor agregado a la coleccion!!!");
-                    
+                    txtApellido.Text = "";
+                    txtNombre.Text = "";
+                    dtpFechaNacimiento.Value = DateTime.Today;
+                    cboPaises.SelectedValue = "";
+                    txtApellido.Focus();
 
                     break;
                 default:
