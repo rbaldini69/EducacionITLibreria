@@ -135,7 +135,7 @@
             // dtpFechaNacimiento
             // 
             this.dtpFechaNacimiento.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.dtpFechaNacimiento.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dtpFechaNacimiento.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dtpFechaNacimiento.Location = new System.Drawing.Point(261, 160);
             this.dtpFechaNacimiento.Margin = new System.Windows.Forms.Padding(4);
             this.dtpFechaNacimiento.Name = "dtpFechaNacimiento";
@@ -179,7 +179,7 @@
             "Chile",
             "Peru",
             "Colombia"});
-            this.cboPaises.Location = new System.Drawing.Point(261, 227);
+            this.cboPaises.Location = new System.Drawing.Point(261, 229);
             this.cboPaises.Margin = new System.Windows.Forms.Padding(4);
             this.cboPaises.Name = "cboPaises";
             this.cboPaises.Size = new System.Drawing.Size(243, 24);

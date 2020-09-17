@@ -16,11 +16,12 @@ namespace WinBiblioteca
         {
             InitializeComponent();
             // subscribir los eventos click de los 2 botones
-            btnCerrar.Click += botones;
-            btnConfirmar.Click += botones;
+            btnCerrar.Click += botonesDeOpcion;
+            btnConfirmar.Click += botonesDeOpcion;
+            
         }
 
-        private void botones(object sender, EventArgs e)
+        private void botonesDeOpcion(object sender, EventArgs e)
         {
             // codigo a ejecutarse cuando el usuario
             // haga click en alguno de los 2 botones
